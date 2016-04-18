@@ -50,7 +50,7 @@ Se establecen 3 categorías diferentes:
 #### Videojuegos
 * La organización de **JamToday Almería** propondrá la temática de los videojuegos que se van a desarrollar el primer día del evento.
 * La fase de desarrollo de videojuegos comienza a las **xx:00** del sábado y termina a las **xx:00** del domingo.
-* El videojuego debe acabarse en el rango de tiempo establecido por la organización de El Hackatón.
+* El videojuego debe acabarse en el rango de tiempo establecido por la organización.
 * No es obligatorio pero se anima a todos los equipos participantes a que liberen los videojuegos desarrollados en un repositorio público con alguna licencia libre para sotware: [GPL3](http://www.gnu.org/licenses/gpl-3.0.html), [GPL2](http://www.gnu.org/licenses/gpl-2.0.html), [LGPL3](http://www.gnu.org/licenses/lgpl-3.0.html), [LGPL2.1](http://www.gnu.org/licenses/lgpl-2.1.html), [AGPL3](http://www.gnu.org/licenses/agpl-3.0.html), 
 [Apache2](http://opensource.org/licenses/Apache-2.0), [BSD3](http://opensource.org/licenses/BSD-3-Clause), [BSD2](http://opensource.org/licenses/BSD-2-Clause) o [MIT](http://opensource.org/licenses/MIT)
 y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) o [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
