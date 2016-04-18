@@ -24,7 +24,7 @@ El evento tendrá lugar en el [IES AL-Ándalus](https://www.iesalandalus.org).
 Del **27** al **29** de **Mayo** de **2016**.
 
 #### ¿Te gustaría participar?
-Para formar parte de esta aventura lo primero es elegir tu rol: programador, diseñador gráfico, matemático, gestor de contenidos, creativo, diseñador de sonido o curioso. Según tus habilidades tendrás que darte de alta a través del [siguiente enlace]() en la plataforma **Evenbrite**. Rellena el formulario de inscripción y reserva tu plaza tanto como participante individual o como participante en equipo. Tras darte de alta nos podremos en contacto contigo para informarte de los siguientes pasos.
+Para formar parte de esta aventura lo primero es elegir tu rol: **programador**, **diseñador gráfico**, **matemático**, **gestor de contenidos**, **creativo**, **diseñador de sonido** o **curioso**. Según tus habilidades tendrás que darte de alta a través del [siguiente enlace]() en la plataforma **Evenbrite**. Rellena el formulario de inscripción y reserva tu plaza tanto como participante individual o como participante en equipo. Tras darte de alta nos podremos en contacto contigo para informarte de los siguientes pasos.
 
 **El coste de la entrada es 5 €** y te aseguramos que **¡la entrada incluye todos los desayunos, comidas, cenas y snacks patrocinados!** a parte de que habrá muchas sorpresas que poco a poco os iremos desvelando.
 
@@ -47,9 +47,9 @@ Se establecen 3 categorías diferentes:
   * 1 Creativo o 1 Diseñador de sonido
 * Una persona sólo puede pertenecer a un único equipo.  
 
-#### Videojuegos
-* La organización de **JamToday Almería** propondrá la temática de los videojuegos que se van a desarrollar el primer día del evento.
-* La fase de desarrollo de videojuegos comienza a las **xx:00** del sábado y termina a las **xx:00** del domingo.
+#### Videojuegos / Juegos de mesa
+* La organización de **JamToday Almería** propondrá la temática de los videojuegos/juegos de mesa que se van a desarrollar el primer día del evento.
+* La fase de desarrollo de videojuegos/juegos de mesa comienza a las **xx:00** del sábado y termina a las **xx:00** del domingo.
 * El videojuego debe acabarse en el rango de tiempo establecido por la organización.
 * No es obligatorio pero se anima a todos los equipos participantes a que liberen los videojuegos desarrollados en un repositorio público con alguna licencia libre para sotware: [GPL3](http://www.gnu.org/licenses/gpl-3.0.html), [GPL2](http://www.gnu.org/licenses/gpl-2.0.html), [LGPL3](http://www.gnu.org/licenses/lgpl-3.0.html), [LGPL2.1](http://www.gnu.org/licenses/lgpl-2.1.html), [AGPL3](http://www.gnu.org/licenses/agpl-3.0.html), 
 [Apache2](http://opensource.org/licenses/Apache-2.0), [BSD3](http://opensource.org/licenses/BSD-3-Clause), [BSD2](http://opensource.org/licenses/BSD-2-Clause) o [MIT](http://opensource.org/licenses/MIT)
@@ -57,7 +57,7 @@ y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://c
 
 
 #### Premios
-* Se otorgará un premio al mejor videojuego de cada categoría.
+* Se otorgará un premio al mejor videojuego de cada categoría y al mejor juego de mesa.
 * Habrá un premio para cada miembro del equipo ganador (aún por determinar).
 
 ##### Obsequios para todos los participantes
