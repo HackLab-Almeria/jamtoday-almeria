@@ -24,7 +24,7 @@ El evento tendrá lugar en el [IES AL-Ándalus](https://www.iesalandalus.org).
 Del **27** al **29** de **Mayo** de **2016**.
 
 #### ¿Te gustaría participar?
-Para formar parte de esta aventura lo primero es elegir tu rol: **programador**, **diseñador gráfico**, **matemático**, **gestor de contenidos**, **creativo**, **diseñador de sonido** o **curioso**. Según tus habilidades tendrás que darte de alta a través del [siguiente enlace]() en la plataforma **Evenbrite**. Rellena el formulario de inscripción y reserva tu plaza tanto como participante individual o como participante en equipo. Tras darte de alta nos podremos en contacto contigo para informarte de los siguientes pasos.
+Para formar parte de esta aventura lo primero es elegir tu rol: **programador**, **diseñador gráfico**, **matemático**, **gestor de contenidos**, **creativo**, **diseñador de sonido** o **curioso**. Según tus habilidades tendrás que darte de alta a través del [siguiente enlace en la plataforma **Ticketea**](https://www.ticketea.com/entradas-networking-jamtodayalmeria/). Rellena el formulario de inscripción y reserva tu plaza tanto como participante individual o como participante en equipo. Tras darte de alta nos podremos en contacto contigo para informarte de los siguientes pasos.
 
 **El coste de la entrada es 5 €** y te aseguramos que **¡la entrada incluye todos los desayunos, comidas, cenas y snacks patrocinados!** a parte de que habrá muchas sorpresas que poco a poco os iremos desvelando.
 
