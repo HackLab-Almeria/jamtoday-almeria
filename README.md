@@ -70,7 +70,7 @@ y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://c
 * Los ganadores serán decididos por un jurado que estará representado por representantes de los patrocinadores y los mentores/expertos que han estado ayudando a los equipos durante el evento.
 
 #### Material
-* Indispensable tu entrada de Evenbrite.
+* Indispensable tu entrada de ticketea.
 * Auriculares para no molestar a los demás participantes.
 * Los participantes deberán traer sus propios ordenadores y el material que necesiten para realizar sus proyectos.
 * Para poder descansar, traete una buena esterilla, tu almohada y tu saco de dormir.
