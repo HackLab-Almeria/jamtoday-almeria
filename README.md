@@ -85,10 +85,24 @@ Co-organiza
 * [HackLab Almería](http://hacklabalmeria.net)
 * [Conecta13](http://conecta13.com)
 
+Patrocina
+---------
+* [Mainfor](http://mainfor.edu.es)
+* [Informática El Corte Inglés](http://www.iecisa.com/web/es/inicio)
+* [Departamento de Informática de la Universidad de Almería](http://cms.ual.es/UAL/universidad/departamentos/informatica/index.htm)
+* [Bios Technology Solutions](http://www.bios-ts.es)
+* [Everis](http://www.everis.com/global/en-US/home/Paginas/home.aspx)
+* [Tier1](http://www.tier1.es/portal/)
+
 Colabora
 --------
 * [IES AL-Ándalus](https://www.iesalandalus.org)
 * [Universo la Maga](http://www.universolamaga.com)
 * [Upware Studios](http://www.upwarestudios.com)
 * [Familiar Game Jam](http://jams.gamejolt.io/familiargamejam6)
-* [Asociación UNIA](http://uniaual.net)
+* [Oficina de Software Libre de Granada](http://osl.ugr.es)
+* [Club de Cacharreo](http://cacharreo.club)
+* [Rodaja](http://www.rodaja.es)
+* [MálagaJam](http://malagajam.com)
+* [European Network of Living Labs](http://www.openlivinglabs.eu)
+* [Orion](http://www.orionalmeria.com)
